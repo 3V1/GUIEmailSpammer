@@ -56,3 +56,5 @@ if __name__ == '__main__':
     main_process = Process(target=start_main)
     main_process.start()
     main_process.join()
+                                                                                                 
+# Im Using multiprocessing Because I Plan On Running 2 Instances In The Future
