@@ -1,4 +1,4 @@
-# GUIEmailSpammer
+# GUI EmailSpammer
 Python Email Spammer With A GUI Using DearPyGui
 
 ## Installation
